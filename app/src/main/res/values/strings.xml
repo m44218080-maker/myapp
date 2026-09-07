@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Phrasal Verbs</string>
+    <string name="search_hint">ابحث بالإنجليزية أو العربية...</string>
+    <string name="search_clear">مسح البحث</string>
+    <string name="phrasal_verbs_title">الأفعال المركبة</string>
+    <string name="back">رجوع</string>
+    <string name="details_title">تفاصيل الفعل</string>
+    <string name="meaning_label">الترجمة والمعنى</string>
+    <string name="formal_section">الاستخدام والمعنى الرسمي</string>
+    <string name="informal_section">الاستخدام والمعنى العامي / الدارج</string>
+    <string name="example_label">مثال توضيحي</string>
+    <string name="example_translation_label">الترجمة العربية</string>
+    <string name="listen_verb">نطق الفعل</string>
+    <string name="listen_sentence">قراءة الجملة</string>
+    <string name="favorite">المفضلة</string>
+    <string name="add_to_favorites">إضافة إلى المفضلة</string>
+    <string name="remove_from_favorites">إزالة من المفضلة</string>
+    <string name="tab_all">الكل (%1$d)</string>
+    <string name="tab_favorites">المفضلة (%1$d)</string>
+    <string name="no_results">لم يتم العثور على نتائج</string>
+    <string name="no_results_sub">جرب البحث بكلمة أخرى باللغة الإنجليزية أو العربية</string>
+    <string name="no_favorites">قائمة المفضلة فارغة</string>
+    <string name="no_favorites_sub">انقر على أيقونة النجمة أو القلب لحفظ الأفعال المهمة هنا والرجوع إليها بسهولة</string>
+    <string name="verbs_count">%1$d فعل مركب</string>
+</resources>
+

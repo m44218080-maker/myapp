@@ -1,0 +1,6 @@
+{
+  "name": "Phrasal Verbs",
+  "description": "تطبيق تفاعلي لتعلم الأفعال المركبة الإنجليزية مع الترجمة العربية والأمثلة والبحث الفوري",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
